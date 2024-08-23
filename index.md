@@ -1,4 +1,4 @@
-# Divya Mahendran First CS193 Homework
+# Divya Mahendran's First CS193 Homework
 
 ## List of some of my favorite things about CS193:
 - Helpful TAs
